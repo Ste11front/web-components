@@ -1,1 +1,23 @@
-// https://www.amazon.it/dp/B0BPHP9PSF?tag=salvatore-aranzulla-21&linkCode=ogi&th=1&psc=1&ascsubtag=p%3A1497456%7Ct%3Aindice%7Cs%3Asa_guide_acquisto%7Cemit_ads%3A1%7Cindex%3Ag%7Cpopup%3A0
+// const searchParams = new URLSearchParams(window.location.search);
+// console.log(searchParams);
+// const header = document.getElementById('header');
+
+// let color = 'green'
+// if (searchParams.get('id')) {
+//     if (searchParams.get('id') === 'pluto') {
+//         color='yellow'
+        
+//     }
+//     if (searchParams.get('id') === 'pippo') {
+//         color='blue'
+//     }
+// }
+
+// header.setAttribute('title-color', color)
+// header.render();
+
+// function changeTitleColor(){
+//     const header = document.getElementById('header');
+//     header.setAttribute('title-color', 'pink')
+//     header.render(); 
+// }

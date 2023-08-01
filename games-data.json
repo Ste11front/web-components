@@ -5,21 +5,19 @@
         "author": "FromSoftware",
         "isMultiplayer": true,
         "yop": 2011
-    }
-
-    {
-        "title": "The Last of Us Part II",
-        "type": "Action/Adventure, stealth, survival horror",
-        "author": "Naughty Dog",
-        "isMultiplayer": false,
-        "yop": 2020
-    }
-
+    },
     {
         "title": "Mortal Kombat",
         "type": "Fighting",
         "author": "Midway",
         "isMultiplayer": true,
         "yop": 1992
+    },
+    {
+        "title": "The Last of Us Part II",
+        "type": "Action/Adventure, stealth, survival horror",
+        "author": "Naughty Dog",
+        "isMultiplayer": false,
+        "yop": 2020
     }
 ]
