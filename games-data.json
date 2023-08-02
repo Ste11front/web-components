@@ -1,22 +1,22 @@
 [
     {
-        "title": "Dark Souls",
-        "type": "Action RPG",
-        "author": "FromSoftware",
+        "title": "dark souls",
+        "type": "rpg",
+        "author": "hidetaka miyazaki",
         "isMultiplayer": true,
         "yop": 2011
     },
     {
-        "title": "Mortal Kombat",
-        "type": "Fighting",
-        "author": "Midway",
+        "title": "steet fighter",
+        "type": "fighting game",
+        "author": "capcom",
         "isMultiplayer": true,
-        "yop": 1992
+        "yop": 1994
     },
     {
-        "title": "The Last of Us Part II",
-        "type": "Action/Adventure, stealth, survival horror",
-        "author": "Naughty Dog",
+        "title": "the last of us II",
+        "type": "action adventure",
+        "author": "naughty dog",
         "isMultiplayer": false,
         "yop": 2020
     }
